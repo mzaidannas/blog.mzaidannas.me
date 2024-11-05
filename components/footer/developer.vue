@@ -28,7 +28,7 @@ import { footerData } from '~/data'
         <Icon name="fa:linkedin-square" size="1em" />
       </NuxtLink>
       <NuxtLink
-        to="https://twitter.com/qdnvubp"
+        to="https://twitter.com/mzaidannas"
         target="_blank"
         class="p-2 bg-gray-300 text-gray-800 rounded-md dark:bg-sky-700 dark:text-[#F1F2F4]"
         aria-label="Twitter"

@@ -31,12 +31,12 @@ export const aboutPage = {
 }
 
 export const seoData = {
-  description: 'Zaid Annas, Software Engineer at AppsCode, with over 2.5+ years experience in software development.',
-  ogTitle: 'Zaid Annas codes and helps others learn Javascript, Typescript, Vue, Nuxt, & Problem Solving',
+  description: 'Zaid Annas, Software Engineer at Transreport, with over 8+ years experience in full stack development.',
+  ogTitle: 'Zaid Annas codes and helps others learn Web Development, Backend Development, Data Engineering & Problem Solving',
   twitterDescription: 'My blog website, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc',
   image: 'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
   mySite: 'https://mzaidannas.me',
-  twitterHandle: '@qdnvubp',
+  twitterHandle: '@mzaidannas',
   mailAddress: 'm.zaid.annas@gmail.com',
 }
 
