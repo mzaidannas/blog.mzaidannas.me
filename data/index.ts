@@ -1,17 +1,17 @@
 export const navbarData = {
-  homeTitle: 'Riyad\'s Blog',
+  homeTitle: 'Zaid\'s Blog',
 }
 
 export const footerData = {
-  author: 'Al Asad Nur Riyad',
-  aboutAuthor: 'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at Appscode Inc.',
-  authorInterest: 'I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let\'s connect.',
+  author: 'Zaid Annas',
+  aboutAuthor: 'Hi! I am Zaid Annas, a Tech enthusiast, Problem solver and Software engineer. Currently working at Transreport.',
+  authorInterest: 'I have a fair amount of knowledge in Full Stack Development, Distributed Systems and Data Engineering. If you have an interesting idea, either open source or paid let\'s connect.',
   aboutTheSite: 'This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it\'s deployed in Vercel.',
 }
 
 export const homePage = {
   title: 'Welcome To My Blog Site',
-  description: 'Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+  description: 'Get Web Development, Databases, Data Engineering, Linux, Backend Development Tips, Learning resources and more.',
 }
 
 export const blogsPage = {
@@ -25,19 +25,19 @@ export const categoryPage = {
 }
 
 export const aboutPage = {
-  title: 'Al Asad Nur Riyad',
-  description: 'Software Engineer, Problem Solver, Web Enthusiast.',
-  aboutMe: 'Hello, fellow human! I\'m a software wizard who spends most of his day crafting code spells at @AppsCode in the Bytebuilders team. When I\'m not crafting code, you can find me summoning solutions to problems on online judges. Just don\'t ask me to cast any love spells, my magic only works on machines!',
+  title: 'Zaid Annas',
+  description: 'Software Engineer, Data Engineer, Problem Solver, Web Enthusiast, Gamer.',
+  aboutMe: 'Hello, fellow techis! I\'m a software wizard who spends most of his day crafting code spells at @Transreport in the RailSafe team. When I\'m not crafting code, you will find me tinkering with operating systems, playing video games, or solving solutions to problems that are prevalent in the tech world. I\'m passionate about testing my skills on sufficiently advanced problems. I\'m excited to connect with you and see how we can make the tech world a better place. Welcome to my blog! :)',
 }
 
 export const seoData = {
-  description: 'Riyad, Software Engineer at AppsCode, with over 2.5+ years experience in software development.',
-  ogTitle: 'Riyad codes and helps others learn Javascript, Typescript, Vue, Nuxt, & Problem Solving',
+  description: 'Zaid Annas, Software Engineer at AppsCode, with over 2.5+ years experience in software development.',
+  ogTitle: 'Zaid Annas codes and helps others learn Javascript, Typescript, Vue, Nuxt, & Problem Solving',
   twitterDescription: 'My blog website, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc',
   image: 'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
-  mySite: 'https://blog-nurriyad.vercel.app',
+  mySite: 'https://mzaidannas.me',
   twitterHandle: '@qdnvubp',
-  mailAddress: 'asadnurriyad@gmail.com',
+  mailAddress: 'm.zaid.annas@gmail.com',
 }
 
 export const siteMetaData = [

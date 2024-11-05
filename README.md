@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://blog.nurriyad.xyz" target="_blank">
+  <a href="https://blog.mzaidannas.me" target="_blank">
     <img  src="./assets/images/dark.png">
   </a>
 </p>
 
-<h1 align="center">Nuxt Blog A Personal Blog Site</h1>
+<h1 align="center">My Personal Blog Site</h1>
 
 ### Built with
 
@@ -35,7 +35,7 @@
 ## Preview
 
 <p align="center">
-  <a href="https://blog.nurriyad.xyz" target="_blank">
+  <a href="https://blog.mzaidannas.me" target="_blank">
     <img width="1090" src="./assets/images/preview1.png">
     <img width="1090" src="./assets/images/preview2.png">
     <img width="1090" src="./assets/images/preview3.png">
@@ -47,7 +47,7 @@
 
 ## Demo
 
-https://blog.nurriyad.xyz
+https://blog.mzaidannas.me
 
 > Hosted on [Vercel](https://vercel.com/): `npm run build`
 
@@ -57,15 +57,15 @@ https://blog.nurriyad.xyz
 
 ```bash
 # install dependencies
-yarn install
+pnpm install
 
 # serve in dev mode, with hot reload at localhost:5173
-yarn run dev
+pnpm run dev
 
 # build for production
-yarn run build
+pnpm run build
 
 # serve in production mode
-yarn run  preview
+pnpm run preview
 
 ```
